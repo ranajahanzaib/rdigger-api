@@ -43,9 +43,6 @@ func main() {
 	// Init message
 	fmt.Println("Booting up rdigger...")
 
-	// See if the nspx is imported.
-	nspx.Hello()
-
 	// Init Firestore
 
 	// Use the application default credentials
