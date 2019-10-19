@@ -3,7 +3,6 @@ package main
 import (
 	"context"
 	"encoding/json"
-	"fmt"
 	"log"
 	"net/http"
 
@@ -13,7 +12,7 @@ import (
 	"google.golang.org/appengine"
 )
 
-// Init Books var as a slice Book struct
+// Init Products var as a slice Product struct
 var products []nspx.Product
 
 // Get all Products
@@ -40,8 +39,6 @@ func getProduct(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	// Init message
-	fmt.Println("Booting up rdigger...")
 
 	// Init Firestore
 
