@@ -20,7 +20,7 @@
  *
  *  @blueprints     https://lab.appzaib.com/org/rdigger/api/blueprints
  *
- *  @package       rdigger/api    (https://pkg.appzaib.com/rdigger/api)
+ *  @package        pkg.appzaib.com/rdigger/api
  */
 
 
