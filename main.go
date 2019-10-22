@@ -14,7 +14,7 @@
  *
  *
  *
- *  @author         Rana Jahanzaib	<iam@ranajahanzaib.com>
+ *  @author         Rana Jahanzaib  <iam@ranajahanzaib.com>
  *
  *  @docs           https://docs.appzaib.com/rdigger/api
  *
