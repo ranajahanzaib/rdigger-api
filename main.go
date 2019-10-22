@@ -1,5 +1,5 @@
 /**
- *  R Digger Media	(https://rdigger.com)
+ *  R Digger Media  (https://rdigger.com)
  *
  *
  *  @copyright      2019-present R Digger Media   <info@rdigger.com>
