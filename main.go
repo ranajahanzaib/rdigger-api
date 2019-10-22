@@ -1,3 +1,29 @@
+/**
+ *	R Digger Media	(https://rdigger.com)
+ *
+ *
+ *	@copyright			2019-present R Digger Media <info@rdigger.com>
+ *									2019-present Appzaib				<info@appzaib.com>
+ *									2019-present Nerdspex				<info@nerdspex.com>
+ *									2019-present Rana Jahanzaib	<iam@ranajahanzaib.com>
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *	@author					Rana Jahanzaib	<iam@ranajahanzaib.com>
+ *
+ *	@docs						https://docs.appzaib.com/rdigger/api
+ *
+ *	@blueprints			https://lab.appzaib.com/org/rdigger/api/blueprints
+ *
+ *	@package				rdigger/api			(https://pkg.appzaib.com/rdigger/api)
+ */
+
+
 package main
 
 import (
