@@ -2,10 +2,10 @@
  *  R Digger Media	(https://rdigger.com)
  *
  *
- *  @copyright      2019-present R Digger Media <info@rdigger.com>
- *                  2019-present Appzaib				<info@appzaib.com>
- *	                2019-present Nerdspex				<info@nerdspex.com>
- *	                2019-present Rana Jahanzaib	<iam@ranajahanzaib.com>
+ *  @copyright      2019-present R Digger Media   <info@rdigger.com>
+ *                  2019-present Appzaib          <info@appzaib.com>
+ *                  2019-present Nerdspex         <info@nerdspex.com>
+ *                  2019-present Rana Jahanzaib   <iam@ranajahanzaib.com>
  *
  *
  *
