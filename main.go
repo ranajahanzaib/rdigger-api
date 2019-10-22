@@ -18,7 +18,7 @@ var products []nspx.Product
 // Get all Products
 func getProducts(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(products)
+	_ = json.NewEncoder(w).Encode(products)
 }
 
 // Get a single Product
@@ -29,12 +29,12 @@ func getProduct(w http.ResponseWriter, r *http.Request) {
 	// Loop through Products and find with ID
 	for _, item := range products {
 		if item.ID == params["id"] {
-			json.NewEncoder(w).Encode(item)
+			_ = json.NewEncoder(w).Encode(item)
 			return
 		}
 	}
 
-	json.NewEncoder(w).Encode(&nspx.Product{})
+	_ = json.NewEncoder(w).Encode(&nspx.Product{})
 
 }
 
